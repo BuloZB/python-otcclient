@@ -34,3 +34,4 @@ six>=1.10.0
 ## botocore==1.4.27
 #requests>=2.6.0
 #objectpath>=0.4
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
